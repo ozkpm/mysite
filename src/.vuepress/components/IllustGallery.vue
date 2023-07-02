@@ -28,8 +28,8 @@
     data() {
       return {
         lists: [
-          {title: '桃華', url:'/momoka.jpeg'},
-          {title: '千冬', url:'/chifuyu.jpeg'}
+          {title: '桃華', url:'/mysite//momoka.jpeg'},
+          {title: '千冬', url:'/mysite/chifuyu.jpeg'}
         ],
         dialog: false,
         dialogUrl: '',
