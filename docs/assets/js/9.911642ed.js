@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[9],{181:function(t,s,i){"use strict";i.r(s);var l=i(0),n=Object(l.a)({},(function(){var t=this._self._c;return t("div",{staticClass:"content"},[t("p",[this._v("twitterは終わったんだ")]),this._v(" "),t("ArticleList"),this._v(" "),t("IllustGallery")],1)}),[],!1,null,null,null);s.default=n.exports}}]);
